@@ -1,3 +1,4 @@
+///<reference types ="cypress-xpath"/>
 export class Homeelements{
     static get Categories(){
         return{

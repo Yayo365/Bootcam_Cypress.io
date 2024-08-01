@@ -1,3 +1,3 @@
-import '@mmisty/cypress-allure-adapter/support';
-import "allure-cypress/commands";
-import './commands'
+import './commands';
+require("cypress-xpath");
+//import "allure-cypress/commands";

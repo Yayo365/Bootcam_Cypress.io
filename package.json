@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@mmisty/cypress-allure-adapter": "^2.6.2",
-    "allure-cypress": "^3.0.0-beta.7"
+    "allure-cypress": "^3.0.0-beta.7",
+    "cypress-xpath": "^2.0.1"
   }
 }

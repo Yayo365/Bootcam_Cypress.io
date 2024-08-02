@@ -10,7 +10,7 @@ export class Loginmethods {
     static clickonLoginbutton(){
         Loginelements.buttons.login.click()
     }
-    static Login100(){
+    static Enterdata(){
         this.entername()
         this.enterpassword()
         this.clickonLoginbutton()

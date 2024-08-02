@@ -10,7 +10,7 @@ export class Signupmethods {
     static clickonsignupbutton(){
         Signupelements.buttons.signup.click()
     }
-    static Signup100(){
+    static Enterdata(){
         this.entername()
         this.enterpassword()
         this.clickonsignupbutton()

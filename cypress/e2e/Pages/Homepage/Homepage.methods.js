@@ -10,7 +10,7 @@ export class Homemethods{
     static Selectmonitoroptions(){
         Homeelements.Categories.Monitors.should("be.visible").click()
     }
-    static Clickproductoptions(Productname="Iphone 6 32gb"){
+    static Clickproductoptions(Productname){
         Homeelements.SelectProduct(Productname).should("be.visible").click()
     }
 } 
